@@ -21,6 +21,7 @@ import java.io.IOException;
  * 这个代码使用的沙箱账号支付成功的;
  * <p>
  * 需要 natapp 软件,来支持外网访问,修改下面domain域名
+ * 注意这里返回没有校签
  */
 @Controller
 public class appWeb {

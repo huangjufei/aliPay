@@ -9,6 +9,7 @@ import com.alipay.api.response.AlipayTradeAppPayResponse;
 
 /**
  * 这个应该需要前端配合
+ * 注意这里返回没有校签
  */
 public class AppDemo {
 
