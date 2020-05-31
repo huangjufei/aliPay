@@ -7,6 +7,9 @@ import com.alipay.api.domain.AlipayTradeAppPayModel;
 import com.alipay.api.request.AlipayTradeAppPayRequest;
 import com.alipay.api.response.AlipayTradeAppPayResponse;
 
+/**
+ * 这个应该需要前端配合
+ */
 public class AppDemo {
 
 
